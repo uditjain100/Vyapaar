@@ -1,4 +1,4 @@
-# nukkad 🏪
+# vyapaar 🏪
 
 > Digital presence for a beloved neighbourhood stationery & document shop in Baghpat, U.P.
 
